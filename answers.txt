@@ -7,3 +7,6 @@ Answer: Data science is widely applied in finance. For instance, it's used to bu
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merging joins two branch histories with a special "merge commit," preserving the exact history of how work was done.
 
+Q4: What are you looking forward to this semester?
+Answer: To learn some Python and SQL and hopefully use these skills to get an internship!! :)
+
